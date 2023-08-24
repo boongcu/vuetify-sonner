@@ -6,12 +6,10 @@
   "description": "Stackable toast component for Vuetify.",
   "author": "Robert Soriano <sorianorobertc@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/wobsoriano/vuetify-sonner#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wobsoriano/vuetify-sonner.git"
+    "url": "git+https://github.com/boongcu/vuetify-sonner.git"
   },
-  "bugs": "https://github.com/wobsoriano/vuetify-sonner/issues",
   "keywords": [
     "vuetify",
     "vue",
