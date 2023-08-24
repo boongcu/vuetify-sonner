@@ -8,7 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/boongcu/vuetify-sonner.git"
+    "url": "git+git@github.com:boongcu/vuetify-sonner.git"
   },
   "keywords": [
     "vuetify",
